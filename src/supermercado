@@ -1,0 +1,1 @@
+let cantProductos: number= Number(prompt("ingrese cant de prodcutos"));
